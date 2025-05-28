@@ -93,6 +93,3 @@ The application uses VM2 for JavaScript code execution in a sandboxed environmen
 
 For C code execution, the application uses temporary files and compilation. Make sure to properly secure your server and implement additional measures for a production environment.
 
-## License
-
-[MIT](LICENSE) 
